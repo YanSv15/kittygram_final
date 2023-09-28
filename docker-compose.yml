@@ -5,6 +5,7 @@ volumes:
   static:
   media:
 
+
 services:
   db:
     container_name: postgre_db
